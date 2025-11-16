@@ -31,7 +31,7 @@ Users can register patents, copyrights, trademarks, and other forms of IP secure
 
 ---
 
-## ⚙️ Smart Contract Setup (Important)
+## ⚙️ Smart Contract Setup 
 
 Before running the DApp, you **must add your own contract ABI and contract address**.
 
